@@ -1,0 +1,6 @@
+{
+  "name": "野菜悪魔シューティング",
+  "description": "野菜の悪魔を倒して、落とした野菜で自分を強化する育成シューティングゲーム。ステージ4のボスに挑み、最高ランクを目指そう！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
